@@ -108,7 +108,7 @@ const TONALITY_CONFIGS = {
       },
       inner: {
         close: ['Gb5', 'Eb4', 'Ab4', 'C5', 'Eb5', 'Ab5', 'C6', 'Eb6', 'Ab6', 'C7'],
-        open: ['E5', 'G4', 'Bb4', 'Db4', 'F5', 'G5', 'Bb5', 'Db5', 'F6', 'G6'],
+        open: ['E5', 'G4', 'Bb4', 'Db5', 'F5', 'G5', 'Bb5', 'Db5', 'F6', 'G6'],
       },
     },
     bass: {
